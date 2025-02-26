@@ -37,5 +37,7 @@ The image depicts an advanced virtual network architecture, likely in an Azure e
 - **share**: Services for resource sharing.
 - **private endpoint**: Services for private connections.
 - **dns private zone**: Services for DNS resolution.
+- **Azure Bastion**: Provides secure and seamless RDP/SSH access to VMs without public IPs.
 
-This architecture enables secure and efficient communication between different network components, supporting services such as web, data, and Active Directory.
+## Overview
+This architecture enables secure and efficient communication between different network components, supporting services such as web, data, and Active Directory. The inclusion of **Azure Bastion** ensures secure access to virtual machines without exposing them to the public internet.
