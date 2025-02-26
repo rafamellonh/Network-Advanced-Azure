@@ -1,8 +1,8 @@
-# Virtual Network Architecture Summary
+mard# Virtual Network Architecture Summary
 
 The image depicts an advanced virtual network architecture, likely in an Azure environment, with the following key components:
 
-()[./Network-Advanced-Azure-Terraform/Virtual-Network-Advanced.png]
+![](./Network-Advanced-Azure-Terraform/Virtual-Network-Advanced.png)
 
 
 
